@@ -18,3 +18,8 @@ It also compares other civic platforms like FixMyStreet and SeeClickFix, and pro
 
 ## Keywords
 `MERN stack`, `Citizen Feedback`, `Civic Tech`, `Scalability`, `UI/UX`, `NoSQL`, `Load Balancing`, `WebSockets`, `Real-Time Data`
+
+## Repository Contents
+
+- [View the Full Paper](./ResearchPaper_TenzinSherab.pdf)
+- [View Certificate of Participation](./certificate_participation_ICRI2025.pdf)
