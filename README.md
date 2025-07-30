@@ -1,7 +1,7 @@
 This repository contains the research paper:
 
 "Design and Implementation Challenges in Building a Scalable MERN Stack Platform for Civic Feedback Systems"
-by Tenzin Sherab and co-authors 
+by Tenzin Sherab and co-authors.
 
 **Presented at**: the 10th International Conference on Research Innovations – Trends in Computational Science (iCRI-25), held in Malaysia (June 20-21).
 
